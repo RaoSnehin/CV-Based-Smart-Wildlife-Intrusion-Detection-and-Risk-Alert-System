@@ -141,3 +141,5 @@ This project is for academic and research purposes.
 ## 👨‍💻 Author
 
 **Rao Snehin** — Final Year Project, 2026
+
+# Image analysis module initialized - see app.py tab2
