@@ -143,3 +143,8 @@ This project is for academic and research purposes.
 **Rao Snehin** — Final Year Project, 2026
 
 # Image analysis module initialized - see app.py tab2
+
+## SMS Alert Providers
+- Twilio (full-featured)
+- Textbelt (free 1/day)
+- Fast2SMS (India-focused)
