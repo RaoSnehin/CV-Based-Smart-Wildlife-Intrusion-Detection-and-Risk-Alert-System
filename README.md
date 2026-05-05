@@ -148,3 +148,6 @@ This project is for academic and research purposes.
 - Twilio (full-featured)
 - Textbelt (free 1/day)
 - Fast2SMS (India-focused)
+
+## Detection Sensitivity
+Adjust the sensitivity slider (1–10) in the sidebar to tune detection confidence.
